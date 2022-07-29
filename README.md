@@ -1,3 +1,7 @@
-# Simulations
-Simulation Details like premium pricing, exchange rate etc..
-We add all simulations and practise code for Carapace here.
+Similation code for the premium pricing formula, the exchange rate, APY, etc...
+
+# How to Run
+
+```bash
+$ jupyter notebook Premium_Pricing_simulation.ipynb
+```
