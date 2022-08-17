@@ -19,7 +19,7 @@ $ pip3 install -r requirements.txt
 $ jupyter notebook
 ```
 
-# Premium Pricing Formula Simulation
+# Premium Pricing Simulation
 
 We run the premium pricing simulations for two reasons. The first is that we want to visually explain how our premium pricing works. The second is that we want to define constant values in a way that meet our criteria. Based on our criteria, we define constant values below:
 
@@ -29,3 +29,8 @@ We run the premium pricing simulations for two reasons. The first is that we wan
 - BUFFER
 - CURVATURE
 - RISK_PREMIUM_PERCENT
+
+# Loan Diversification Simulation
+
+# Seller APY Simulation
+
